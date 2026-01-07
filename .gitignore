@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -439,3 +440,6 @@ FodyWeavers.xsd
 *.msm
 *.msp
 >>>>>>> 6d31ca719de2237ff35312cea593b3f54781241e
+=======
+
+>>>>>>> 9252787360fb6eb80ec80fd7f8c9ed6ac558a597
