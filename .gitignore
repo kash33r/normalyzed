@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Environment Variables (CRITICAL)
+.env
+.env.local
+
+# Database (Do not commit the production DB)
+data/
+*.db
+*.sqlite3
+normalyzed.db
+
+# Node/Frontend
+node_modules/
+frontend/dist/
+
+# OS Specific
+.DS_Store
